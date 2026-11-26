@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>WebGIS Sekolah dan Pariwisata Bolmong</title>
+
+    <!-- Leaflet CSS -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+    <!-- CSS Website -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <h1>WebGIS Bolaang Mongondow</h1>
+            <p>Peta Persebaran Sekolah dan Objek Pariwisata</p>
+        </div>
+    </header>
+
+    <!-- Konten Utama -->
+    <main class="container">
+
+        <!-- Panel Informasi -->
+        <section class="panel">
+
+            <h2>Informasi Peta</h2>
+
+            <p>
+                Sistem Informasi Geografis untuk melihat
+                persebaran sekolah dan objek pariwisata
+                di Kabupaten Bolaang Mongondow.
+            </p>
+
+            <!-- Statistik -->
+            <div class="statistics">
+                <div class="stat-card">
+                    <h3 id="total-sekolah">0</h3>
+                    <p>Pendidikan</p>
+                </div>
+
+                <div class="stat-card">
+                    <h3 id="total-wisata">0</h3>
+                    <p>Pariwisata</p>
+                </div>
+            </div>
+
+            <!-- Filter -->
+            <div class="filter-section">
+                <h3>Filter Kategori</h3>
+
+                <select id="filter-kategori">
+                    <option value="Semua">Semua Kategori</option>
+                    <option value="Pendidikan">Pendidikan</option>
+                    <option value="Wisata alam/pantai">
+                        Wisata alam/pantai
+                    </option>
+                </select>
+            </div>
+
+            <!-- Legenda -->
+            <div class="legend">
+                <h3>Legenda Peta</h3>
+
+                <p>
+                    <span class="dot blue"></span>
+                    Pendidikan
+                </p>
+
+                <p>
+                    <span class="dot orange"></span>
+                    Pariwisata
+                </p>
+            </div>
+
+        </section>
+
+        <!-- Area Peta -->
+        <section class="map-section">
+            <div class="map-heading">
+                <h2>Peta Persebaran Lokasi</h2>
+            </div>
+
+            <div id="map"></div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            WebGIS Sekolah dan Pariwisata
+            Kabupaten Bolaang Mongondow
+        </p>
+        <p>Data Tahun 2025</p>
+    </footer>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- JavaScript Website -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>

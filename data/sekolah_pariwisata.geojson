@@ -1,0 +1,2718 @@
+{
+  "type": "FeatureCollection",
+  "name": "sekolah_pariwisata_bolmong",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-002",
+        "Nama_Objek": "SMA N1 Dumoga",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Imandi, Kec. Dumoga Tim., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.578972, 124.064038",
+        "Lattitude": 0.5789717845352399,
+        "Longtitude": 124.064038395757,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.064038395757,
+          0.5789717845352399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-003",
+        "Nama_Objek": "SMA N1 lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Jl. AMD, Mongkoinit, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.866216, 124.005324",
+        "Lattitude": 0.8662159454746913,
+        "Longtitude": 124.0053235269874,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0053235269874,
+          0.8662159454746913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-004",
+        "Nama_Objek": "SMA N1passi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Jl. Trans Sulawesi, Inobonto Dua, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.866216, 124.005324",
+        "Lattitude": 0.8662159454746913,
+        "Longtitude": 124.0053235269874,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0053235269874,
+          0.8662159454746913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-005",
+        "Nama_Objek": "SMA N1 poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Jl. Trans Sulawesi, Inobonto Dua, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.996936, 124.279358",
+        "Lattitude": 0.996936008180868,
+        "Longtitude": 124.2793579423291,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2793579423291,
+          0.996936008180868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-006",
+        "Nama_Objek": "SMA N1 sang tombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Bolangat, Kec. Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.826824, 123.839270",
+        "Lattitude": 0.8268238771888713,
+        "Longtitude": 123.8392697055441,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8392697055441,
+          0.8268238771888713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-007",
+        "Nama_Objek": "SMA N2 Dumoga",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Jl. Trans Sulawesi, Ikhwan, Kec. Dumoga Bar., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.525719, 123.967530",
+        "Lattitude": 0.5257192257654134,
+        "Longtitude": 123.9675299423291,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9675299423291,
+          0.5257192257654134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-008",
+        "Nama_Objek": "SMAS Advent imandi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Imandi, Kec. Dumoga Tim., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.579885, 124.074289",
+        "Lattitude": 0.5798850394378275,
+        "Longtitude": 124.0742890250122,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0742890250122,
+          0.5798850394378275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-009",
+        "Nama_Objek": "SMAS Budi luhur kembang mertha",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMA",
+        "Alamat": "Kembang Mertha, Kec. Dumoga Tim., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.579885, 124.074289",
+        "Lattitude": 0.5798850394378275,
+        "Longtitude": 124.0742890250122,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0742890250122,
+          0.5798850394378275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-010",
+        "Nama_Objek": "SMK N1 Bolaang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Dua, Jl. Inobonto - Kotamobagu, Langagon, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.610567, 124.088567",
+        "Lattitude": 0.6105665039561022,
+        "Longtitude": 124.0885671971969,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0885671971969,
+          0.6105665039561022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-011",
+        "Nama_Objek": "SMK N1 smk poopo",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Poopo, Kec. Ranoyapo, Kabupaten Minahasa Selatan, Sulawesi Utara",
+        "Kecamatan": "Ranoyapo",
+        "Kabupaten": "Kabupaten Minahasa Selatan",
+        "Koordinat": "0.862568, 124.129482",
+        "Lattitude": 0.8625678352695939,
+        "Longtitude": 124.1294819711646,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1294819711646,
+          0.8625678352695939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-012",
+        "Nama_Objek": "SMK N1 cinta kasih imandi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Imandi, Kec. Dumoga Tim., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.774730, 124.346375",
+        "Lattitude": 0.7747300900553105,
+        "Longtitude": 124.3463745367939,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3463745367939,
+          0.7747300900553105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-013",
+        "Nama_Objek": "SMK N1 Santobolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Dua, Jl. Inobonto - Kotamobagu, Langagon, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.734649, 124.294696",
+        "Lattitude": 0.7346485761843118,
+        "Longtitude": 124.2946961746621,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2946961746621,
+          0.7346485761843118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-014",
+        "Nama_Objek": "SMK N1 dumoga",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Pinonobatuan, Kec. Dumoga Tim., Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.880172, 124.128119",
+        "Lattitude": 0.8801718188092723,
+        "Longtitude": 124.1281193927905,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1281193927905,
+          0.8801718188092723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-015",
+        "Nama_Objek": "SMK N2 dumoga",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Jl. Pengairan, Ponompiaan, Kec. Dumoga, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.599942, 124.123649",
+        "Lattitude": 0.599941567221836,
+        "Longtitude": 124.1236489558228,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1236489558228,
+          0.599941567221836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-016",
+        "Nama_Objek": "SMK N1 lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Mongkoinit, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.858171, 0.599942",
+        "Lattitude": 0.8581714973886311,
+        "Longtitude": 0.599941567221836,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.599941567221836,
+          0.8581714973886311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-017",
+        "Nama_Objek": "SMK N1 lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Tanoyan Utara, Kec. Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara 95737",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.604132, 124.274724",
+        "Lattitude": 0.6041315800737607,
+        "Longtitude": 124.2747242711646,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2747242711646,
+          0.6041315800737607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-018",
+        "Nama_Objek": "SMK N1 mopuya",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Jl. Asoka, Mopuya Utara, Kec. Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.571827, 123.981118",
+        "Lattitude": 0.5718274226384676,
+        "Longtitude": 123.9811176171898,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9811176171898,
+          0.5718274226384676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-019",
+        "Nama_Objek": "SMK Negeri 1 Kotabunan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Buyat I, Kotabunan, Kabupaten Bolaang Mongondow Timur, Sulawesi Utara",
+        "Kecamatan": "Kotabunan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow Timur",
+        "Koordinat": "0.726570, 124.293334",
+        "Lattitude": 0.7265704196011189,
+        "Longtitude": 124.2933336288354,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2933336288354,
+          0.7265704196011189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-020",
+        "Nama_Objek": "SMK Cokroaminoto Salongo",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SMK",
+        "Alamat": "Salongo, Kec. Bolaang Uki, Kabupaten Bolaang Mongondow Selatan, Sulawesi Utara 95774",
+        "Kecamatan": "Bolaang Uki",
+        "Kabupaten": "Kabupaten Bolaang Mongondow Selatan",
+        "Koordinat": "0.359445, 123.971308",
+        "Lattitude": 0.3594448438720762,
+        "Longtitude": 123.9713082711645,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9713082711645,
+          0.3594448438720762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-021",
+        "Nama_Objek": "MIN 1 Bolaang Mongondow",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "MI",
+        "Alamat": "Desa Tandu, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.875290, 124.012856",
+        "Lattitude": 0.8752901,
+        "Longtitude": 124.0128561,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0128561,
+          0.8752901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-022",
+        "Nama_Objek": "SD Cokroaminoto Bumbung",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bumbung, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.807338, 123.898444",
+        "Lattitude": 0.807338,
+        "Longtitude": 123.898444,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.898444,
+          0.807338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-023",
+        "Nama_Objek": "SD Cokroaminoto Solog",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Solog, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.881400, 124.096092",
+        "Lattitude": 0.8814,
+        "Longtitude": 124.096092,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.096092,
+          0.8814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-024",
+        "Nama_Objek": "SD Islam Terpadu Bina Insan Lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Lolak, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.894100, 124.008900",
+        "Lattitude": 0.8941,
+        "Longtitude": 124.0089,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0089,
+          0.8941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-025",
+        "Nama_Objek": "SD Kristen Dulangon",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Mongkoinit, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.853169, 124.000540",
+        "Lattitude": 0.853169,
+        "Longtitude": 124.00054,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.00054,
+          0.853169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-026",
+        "Nama_Objek": "SD Kristen Tandu",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Tandu, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.876187, 124.077332",
+        "Lattitude": 0.876187,
+        "Longtitude": 124.077332,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.077332,
+          0.876187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-027",
+        "Nama_Objek": "SD Negeri 1 Baturapa",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Baturapa, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.833603, 123.978828",
+        "Lattitude": 0.833603,
+        "Longtitude": 123.978828,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.978828,
+          0.833603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-028",
+        "Nama_Objek": "SD Negeri 1 Lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Lolak, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.872906, 124.008659",
+        "Lattitude": 0.8729056,
+        "Longtitude": 124.0086588,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0086588,
+          0.8729056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-029",
+        "Nama_Objek": "SD Negeri 2 Lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Lolak Tombolango, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.880224, 124.017823",
+        "Lattitude": 0.880224,
+        "Longtitude": 124.017823,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.017823,
+          0.880224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-030",
+        "Nama_Objek": "SD Negeri 3 Lolak",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Lolak, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.876801, 124.010681",
+        "Lattitude": 0.8768007,
+        "Longtitude": 124.0106805,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0106805,
+          0.8768007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-031",
+        "Nama_Objek": "SD Negeri 2 Lalow",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Lolak II, Kecamatan Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.861115, 124.033065",
+        "Lattitude": 0.861115,
+        "Longtitude": 124.033065,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.033065,
+          0.861115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-032",
+        "Nama_Objek": "SD K IV Ambangbudidaya",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Inobonto Satu, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.919111, 124.115634",
+        "Lattitude": 0.919111,
+        "Longtitude": 124.115634,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.115634,
+          0.919111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-033",
+        "Nama_Objek": "SD Kristen V Inobonto 1",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Inobonto Satu, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.920792, 124.092153",
+        "Lattitude": 0.9207922,
+        "Longtitude": 124.0921533,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0921533,
+          0.9207922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-034",
+        "Nama_Objek": "SD Negeri 1 Solimandungan 1",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Solimandungan Satu, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.841014, 124.156949",
+        "Lattitude": 0.841014,
+        "Longtitude": 124.156949,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.156949,
+          0.841014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-035",
+        "Nama_Objek": "SD Negeri 2 Inobonto I",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Inobonto, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.909793, 124.090142",
+        "Lattitude": 0.909793,
+        "Longtitude": 124.090142,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.090142,
+          0.909793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-036",
+        "Nama_Objek": "SD Negeri 2 Inobonto II",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Inobonto Dua, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.917440, 124.107658",
+        "Lattitude": 0.9174402,
+        "Longtitude": 124.1076575,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1076575,
+          0.9174402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-037",
+        "Nama_Objek": "SD Negeri 2 Langagon",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Langagon, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.871274, 124.123438",
+        "Lattitude": 0.8712736,
+        "Longtitude": 124.1234383,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1234383,
+          0.8712736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-038",
+        "Nama_Objek": "SD Negeri 3 Inobonto II",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Inobonto Dua, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.919975, 124.107254",
+        "Lattitude": 0.9199746,
+        "Longtitude": 124.1072541,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1072541,
+          0.9199746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-039",
+        "Nama_Objek": "SD Negeri Bangomolunow",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bangomolunow, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.859581, 124.137752",
+        "Lattitude": 0.859581,
+        "Longtitude": 124.137752,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.137752,
+          0.859581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-040",
+        "Nama_Objek": "SD Negeri 3 Langagon",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Langagon, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.883259, 124.115956",
+        "Lattitude": 0.883259,
+        "Longtitude": 124.115956,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.115956,
+          0.883259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-041",
+        "Nama_Objek": "SD Negeri Solimandungan II",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Solimandungan Dua, Kecamatan Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.832351, 124.169895",
+        "Lattitude": 0.8323514,
+        "Longtitude": 124.1698948,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1698948,
+          0.8323514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-042",
+        "Nama_Objek": "SD Negeri 1 Lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 1, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.919700, 123.915000",
+        "Lattitude": 0.9197,
+        "Longtitude": 123.915,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.915,
+          0.9197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-043",
+        "Nama_Objek": "SD Negeri 2 Lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.737500, 124.033900",
+        "Lattitude": 0.7375,
+        "Longtitude": 124.0339,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0339,
+          0.7375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-044",
+        "Nama_Objek": "SD Negeri 3 Lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.668255, 124.278740",
+        "Lattitude": 0.668255,
+        "Longtitude": 124.27874,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.27874,
+          0.668255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-045",
+        "Nama_Objek": "SD Negeri 4 Lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.146100, 123.952200",
+        "Lattitude": 0.1461,
+        "Longtitude": 123.9522,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9522,
+          0.1461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-046",
+        "Nama_Objek": "SD Negeri 5 Lolayan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.811000, 123.917900",
+        "Lattitude": 0.811,
+        "Longtitude": 123.9179,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9179,
+          0.811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-047",
+        "Nama_Objek": "SD Negeri 1 Poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 1, Kecamatan Poigar, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Poigar",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.709300, 124.203200",
+        "Lattitude": 0.7093,
+        "Longtitude": 124.2032,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2032,
+          0.7093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-048",
+        "Nama_Objek": "SD Negeri 2 Poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Poigar, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Poigar",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.999367, 124.280627",
+        "Lattitude": 0.999367,
+        "Longtitude": 124.280627,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.280627,
+          0.999367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-049",
+        "Nama_Objek": "SD Negeri 3 Poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Poigar, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Poigar",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.118828, 124.308536",
+        "Lattitude": 0.118828,
+        "Longtitude": 124.308536,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.308536,
+          0.118828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-050",
+        "Nama_Objek": "SD Negeri 4 Poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Poigar, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Poigar",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.710200, 124.253600",
+        "Lattitude": 0.7102,
+        "Longtitude": 124.2536,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2536,
+          0.7102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-051",
+        "Nama_Objek": "SD Negeri 5 Poigar",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Poigar, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Poigar",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.118818, 124.308539",
+        "Lattitude": 0.1188179,
+        "Longtitude": 124.3085392,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3085392,
+          0.1188179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-052",
+        "Nama_Objek": "SD Negeri 1 Dumoga Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Mopuya, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.571836, 123.985671",
+        "Lattitude": 0.571836,
+        "Longtitude": 123.985671,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.985671,
+          0.571836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-053",
+        "Nama_Objek": "SD Negeri 2 Dumoga Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Dumoga, Kecamatan Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.617846, 124.082339",
+        "Lattitude": 0.6178459,
+        "Longtitude": 124.0823394,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0823394,
+          0.6178459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-054",
+        "Nama_Objek": "SD Negeri 3 Dumoga Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Dumoga, Kecamatan Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.604568, 124.082449",
+        "Lattitude": 0.604568,
+        "Longtitude": 124.082449,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.082449,
+          0.604568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-055",
+        "Nama_Objek": "SD Negeri 4 Mopuya",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Mopuya, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.575477, 123.978553",
+        "Lattitude": 0.5754774,
+        "Longtitude": 123.9785527,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9785527,
+          0.5754774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-056",
+        "Nama_Objek": "SD Negeri 5 Dumoga Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Dumoga, Kecamatan Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.608843, 124.081329",
+        "Lattitude": 0.6088429,
+        "Longtitude": 124.0813286,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0813286,
+          0.6088429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-057",
+        "Nama_Objek": "SD Negeri 1 Doloduo",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Doloduo, Kecamatan Dumoga Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.523193, 123.958055",
+        "Lattitude": 0.5231931,
+        "Longtitude": 123.9580549,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9580549,
+          0.5231931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-058",
+        "Nama_Objek": "SD Negeri 2 Uuan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Uuan, Kecamatan Dumoga Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.498904, 123.971338",
+        "Lattitude": 0.498904,
+        "Longtitude": 123.9713376,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9713376,
+          0.498904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-059",
+        "Nama_Objek": "SD Negeri 3 Mopuya",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Mopuya Utara, Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.573132, 123.985048",
+        "Lattitude": 0.5731322,
+        "Longtitude": 123.985048,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.985048,
+          0.5731322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-060",
+        "Nama_Objek": "SD Negeri 4 Dumoga Barat",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Werdhi Agung, Kecamatan Dumoga Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.549631, 124.043268",
+        "Lattitude": 0.549631,
+        "Longtitude": 124.043268,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.043268,
+          0.549631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-061",
+        "Nama_Objek": "SD Negeri 5 Mopuya",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Mopuya Selatan, Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.564961, 123.983931",
+        "Lattitude": 0.5649613,
+        "Longtitude": 123.9839315,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9839315,
+          0.5649613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-062",
+        "Nama_Objek": "SD Negeri 1 Passi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Passi, Kecamatan Passi Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.767333, 124.302284",
+        "Lattitude": 0.767333,
+        "Longtitude": 124.302284,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.302284,
+          0.767333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-063",
+        "Nama_Objek": "SD Negeri 2 Passi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Passi 2, Kecamatan Passi Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.759299, 124.302834",
+        "Lattitude": 0.7592987,
+        "Longtitude": 124.3028338,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3028338,
+          0.7592987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-064",
+        "Nama_Objek": "SD Negeri 3 Passi Barat",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Passi Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.639900, 124.039700",
+        "Lattitude": 0.6399,
+        "Longtitude": 124.0397,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0397,
+          0.6399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-065",
+        "Nama_Objek": "SD Negeri 4 Passi Barat",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Passi Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.650500, 124.066800",
+        "Lattitude": 0.6505,
+        "Longtitude": 124.0668,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0668,
+          0.6505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-066",
+        "Nama_Objek": "SD Negeri 5 Passi Barat",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Passi Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.917800, 124.118900",
+        "Lattitude": 0.9178,
+        "Longtitude": 124.1189,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1189,
+          0.9178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-067",
+        "Nama_Objek": "SD Negeri 1 Sangtombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 1, Kecamatan Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.785100, 124.025700",
+        "Lattitude": 0.7851,
+        "Longtitude": 124.0257,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0257,
+          0.7851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-068",
+        "Nama_Objek": "SD Negeri 2 Sangtombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.733500, 124.462000",
+        "Lattitude": 0.7335,
+        "Longtitude": 124.462,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.462,
+          0.7335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-069",
+        "Nama_Objek": "SD Negeri 3 Sangtombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.924000, 124.265500",
+        "Lattitude": 0.924,
+        "Longtitude": 124.2655,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2655,
+          0.924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-070",
+        "Nama_Objek": "SD Negeri 4 Sangtombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.685600, 124.337500",
+        "Lattitude": 0.6856,
+        "Longtitude": 124.3375,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3375,
+          0.6856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-071",
+        "Nama_Objek": "SD Negeri 5 Sangtombolang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Sangtombolang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Sangtombolang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.681700, 124.127700",
+        "Lattitude": 0.6817,
+        "Longtitude": 124.1277,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1277,
+          0.6817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-072",
+        "Nama_Objek": "SD Negeri 1 Dumoga Utara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 1, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.194800, 124.284000",
+        "Lattitude": 0.1948,
+        "Longtitude": 124.284,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.284,
+          0.1948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-073",
+        "Nama_Objek": "SD Negeri 2 Dumoga Utara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.878500, 124.310800",
+        "Lattitude": 0.8785,
+        "Longtitude": 124.3108,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3108,
+          0.8785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-074",
+        "Nama_Objek": "SD Negeri 3 Dumoga Utara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.121400, 124.365600",
+        "Lattitude": 0.1214,
+        "Longtitude": 124.3656,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3656,
+          0.1214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-075",
+        "Nama_Objek": "SD Negeri 4 Dumoga Utara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.714500, 123.919300",
+        "Lattitude": 0.7145,
+        "Longtitude": 123.9193,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9193,
+          0.7145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-076",
+        "Nama_Objek": "SD Negeri 5 Dumoga Utara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Dumoga Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.757700, 124.060600",
+        "Lattitude": 0.7577,
+        "Longtitude": 124.0606,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0606,
+          0.7577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-077",
+        "Nama_Objek": "SD Negeri 1 Passi Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 1, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.705500, 124.465700",
+        "Lattitude": 0.7055,
+        "Longtitude": 124.4657,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4657,
+          0.7055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-078",
+        "Nama_Objek": "SD Negeri 2 Passi Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.138200, 124.088800",
+        "Lattitude": 0.1382,
+        "Longtitude": 124.0888,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0888,
+          0.1382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-079",
+        "Nama_Objek": "SD Negeri 3 Passi Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 3, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.927700, 124.137400",
+        "Lattitude": 0.9277,
+        "Longtitude": 124.1374,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1374,
+          0.9277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-080",
+        "Nama_Objek": "SD Negeri 4 Passi Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 4, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.157300, 124.175300",
+        "Lattitude": 0.1573,
+        "Longtitude": 124.1753,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1753,
+          0.1573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-081",
+        "Nama_Objek": "SD Negeri 5 Passi Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 5, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.732400, 124.048000",
+        "Lattitude": 0.7324,
+        "Longtitude": 124.048,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.048,
+          0.7324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-082",
+        "Nama_Objek": "SD Negeri 1 Bilalang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bilalang Dua, Kecamatan Bilalang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bilalang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.763853, 124.310490",
+        "Lattitude": 0.763853,
+        "Longtitude": 124.31049,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.31049,
+          0.763853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-083",
+        "Nama_Objek": "SD Negeri 2 Bilalang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bilalang IV, Kecamatan Bilalang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bilalang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.765500, 124.313816",
+        "Lattitude": 0.7654998,
+        "Longtitude": 124.3138158,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3138158,
+          0.7654998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-084",
+        "Nama_Objek": "SD Negeri 3 Bilalang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bilalang Dua, Kecamatan Bilalang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bilalang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.762835, 124.314777",
+        "Lattitude": 0.762835,
+        "Longtitude": 124.314777,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.314777,
+          0.762835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-085",
+        "Nama_Objek": "SD Negeri 4 Bilalang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bilalang Satu, Kecamatan Kotamobagu Utara, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Kotamobagu Utara",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.760860, 124.312116",
+        "Lattitude": 0.7608596,
+        "Longtitude": 124.3121156,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3121156,
+          0.7608596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-086",
+        "Nama_Objek": "SD Negeri 5 Bilalang",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Tudu Aog Baru, Kecamatan Bilalang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bilalang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.816647, 124.322610",
+        "Lattitude": 0.816647,
+        "Longtitude": 124.32261,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.32261,
+          0.816647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-087",
+        "Nama_Objek": "SD Negeri 1 Bolaang Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Bolaang, Kecamatan Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.937660, 124.158854",
+        "Lattitude": 0.93766,
+        "Longtitude": 124.1588536,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1588536,
+          0.93766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-088",
+        "Nama_Objek": "SD Negeri 2 Bolaang Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sentral 2, Kecamatan Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.942651, 124.157695",
+        "Lattitude": 0.942651,
+        "Longtitude": 124.157695,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.157695,
+          0.942651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-089",
+        "Nama_Objek": "SD Negeri 3 Sinsingon",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Sinsingon, Kecamatan Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.800499, 124.402588",
+        "Lattitude": 0.800499,
+        "Longtitude": 124.402588,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.402588,
+          0.800499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-090",
+        "Nama_Objek": "SD Negeri 4 Tungoi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Tungoi 1, Kecamatan Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.666158, 124.264283",
+        "Lattitude": 0.666158,
+        "Longtitude": 124.264283,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.264283,
+          0.666158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-091",
+        "Nama_Objek": "SD Negeri 5 Bolaang Timur",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "SD",
+        "Alamat": "Desa Dumoga, Kecamatan Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.608839, 124.081324",
+        "Lattitude": 0.608839,
+        "Longtitude": 124.081324,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.081324,
+          0.608839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-092",
+        "Nama_Objek": "Yayasan Pendidikan Islam Alkhairaat",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "W3CW+65M, Jl. Trans Sulawesi, Inobonto, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.920637, 124.095440",
+        "Lattitude": 0.920637,
+        "Longtitude": 124.09544,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.09544,
+          0.920637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-093",
+        "Nama_Objek": "TK Mutiara",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "W474+X4V, Inobonto, Kec. Bolaang, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.914996, 124.105300",
+        "Lattitude": 0.914996,
+        "Longtitude": 124.1053,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1053,
+          0.914996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-094",
+        "Nama_Objek": "Taman Kanak-kanak Dayow Desa Tadoy",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "W5M2+MFP, Tadoy I, Kec. Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.934183, 124.151213",
+        "Lattitude": 0.934183,
+        "Longtitude": 124.151213,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.151213,
+          0.934183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-095",
+        "Nama_Objek": "TK MELATI DESA BOLAANG",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "W5P5+WQW, Bolaang, Kec. Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.938127, 124.159133",
+        "Lattitude": 0.938127,
+        "Longtitude": 124.159133,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.159133,
+          0.938127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-096",
+        "Nama_Objek": "Taman Kanak-kanak Nazareth Werdhi Agung Selatan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "G2VF+MXF, Unnamed Road, Kinomaligan, Kec. Dumoga Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.544190, 124.024924",
+        "Lattitude": 0.54419,
+        "Longtitude": 124.024924,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.024924,
+          0.54419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-097",
+        "Nama_Objek": "Taman Kanak-kanak (TK) An-Nisa",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "J729+8X5, Tanoyan Selatan, Kec. Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.600769, 124.269969",
+        "Lattitude": 0.600769,
+        "Longtitude": 124.269969,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.269969,
+          0.600769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-098",
+        "Nama_Objek": "TK Melati Imandi",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "H3G9+WJ4, Lorong TK Melati, Imandi, Kec. Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.577266, 124.069069",
+        "Lattitude": 0.577266,
+        "Longtitude": 124.069069,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.069069,
+          0.577266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-099",
+        "Nama_Objek": "TK PINTAR",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "M34X+65Q, Siniyung, Kec. Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.656150, 124.098199",
+        "Lattitude": 0.65615,
+        "Longtitude": 124.098199,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.098199,
+          0.65615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-100",
+        "Nama_Objek": "TK TUNAS BANGSA TERPADU LALOW",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "V2JM+HPW, Jl. Trans Sulawesi, Lalow, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.881459, 124.034457",
+        "Lattitude": 0.881459,
+        "Longtitude": 124.034457,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.034457,
+          0.881459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-101",
+        "Nama_Objek": "TK KRISTEN NAZARETH",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "G2VG+J2G, Kinomaligan, Kec. Dumoga Barat, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Barat",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.544217, 124.024975",
+        "Lattitude": 0.544217,
+        "Longtitude": 124.024975,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.024975,
+          0.544217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-102",
+        "Nama_Objek": "TK Negeri Mutiara Kasih Pusian Selatan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "J5X8+W45, Pusian, Kec. Dumoga Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Dumoga Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.650091, 124.165290",
+        "Lattitude": 0.650091,
+        "Longtitude": 124.16529,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.16529,
+          0.650091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-103",
+        "Nama_Objek": "TK Darma Wanita",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "Q8GX+8F9, Unnamed Road, Poopo Barat, Kec. Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.775831, 124.348730",
+        "Lattitude": 0.775831,
+        "Longtitude": 124.34873,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.34873,
+          0.775831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-104",
+        "Nama_Objek": "TK Tunas Harapan",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "Q8CX+5P2, Poopo Selatan, Kec. Passi Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Passi Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.770406, 124.349226",
+        "Lattitude": 0.770406,
+        "Longtitude": 124.349226,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.349226,
+          0.770406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-105",
+        "Nama_Objek": "TK Kartika XXI-26",
+        "Kategori": "Pendidikan",
+        "Sub Kategori": "TK",
+        "Alamat": "R2W2+MJP, Jl. Trans Sulawesi, Tambolango, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.846755, 124.001556",
+        "Lattitude": 0.846755,
+        "Longtitude": 124.001556,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.001556,
+          0.846755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-106",
+        "Nama_Objek": "Pantai Bungin",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Desa Motabang, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.831760, 123.970144",
+        "Lattitude": 0.83176,
+        "Longtitude": 123.970144,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.970144,
+          0.83176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-107",
+        "Nama_Objek": "Tanjung Ompu",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Desa Lalow, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.881942, 124.015352",
+        "Lattitude": 0.881942,
+        "Longtitude": 124.015352,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.015352,
+          0.881942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-108",
+        "Nama_Objek": "Air Terjun Lolan",
+        "Kategori": "Wisata alam/air terjun",
+        "Sub Kategori": "Alam/air terjun",
+        "Alamat": "Desa Lolan, Kec. Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.943043, 124.205051",
+        "Lattitude": 0.943043,
+        "Longtitude": 124.205051,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.205051,
+          0.943043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-109",
+        "Nama_Objek": "Pantai Lolan",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Desa Lolan, Kec. Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.954403, 124.171089",
+        "Lattitude": 0.954403,
+        "Longtitude": 124.171089,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.171089,
+          0.954403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-110",
+        "Nama_Objek": "Pantai Losari (Lolak Sarana Rekreasi)",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Desa Lolak, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.888277, 124.006896",
+        "Lattitude": 0.888277,
+        "Longtitude": 124.006896,
+        "Sumber data": "Google Maps",
+        "Tahun": 2025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.006896,
+          0.888277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-111",
+        "Nama_Objek": "Pantai Pondok Cinta",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Desa Lolak, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.887400, 124.003500",
+        "Lattitude": 0.8874,
+        "Longtitude": 124.0035,
+        "Sumber data": "Google Maps",
+        "Tahun": 2020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0035,
+          0.8874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-112",
+        "Nama_Objek": "Pantai Lolak",
+        "Kategori": "Wisata alam/pantai",
+        "Sub Kategori": "Alam/pantai",
+        "Alamat": "Dusun IV Desa Lolak Tombolango, Kec. Lolak, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolak",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.879129, 123.990090",
+        "Lattitude": 0.879129,
+        "Longtitude": 123.99009,
+        "Sumber data": "Google Maps",
+        "Tahun": 2018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.99009,
+          0.879129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-113",
+        "Nama_Objek": "Pemandian Air Panas Bakan",
+        "Kategori": "Wisata buatan",
+        "Sub Kategori": "Buatan",
+        "Alamat": "Desa Bakan, Kec. Lolayan, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Lolayan",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.598134, 124.292925",
+        "Lattitude": 0.598134,
+        "Longtitude": 124.292925,
+        "Sumber data": "Google Maps",
+        "Tahun": 2018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.292925,
+          0.598134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "BMR-114",
+        "Nama_Objek": "Air Terjun Baki",
+        "Kategori": "Wisata alam/air terjun",
+        "Sub Kategori": "Alam/air terjun",
+        "Alamat": "Desa Lolan 2, Kec. Bolaang Timur, Kabupaten Bolaang Mongondow, Sulawesi Utara",
+        "Kecamatan": "Bolaang Timur",
+        "Kabupaten": "Kabupaten Bolaang Mongondow",
+        "Koordinat": "0.913264, 124.177382",
+        "Lattitude": 0.913264,
+        "Longtitude": 124.177382,
+        "Sumber data": "Google Maps",
+        "Tahun": 2018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.177382,
+          0.913264
+        ]
+      }
+    }
+  ]
+}
